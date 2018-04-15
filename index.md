@@ -1,8 +1,20 @@
 ## About Me
 
-You can use the [editor on GitHub](https://github.com/someaditya/someaditya.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently doing my Master's in Computer Science (Intelligent Systems) from the School of Computer Science and Statistics, Trinity College Dublin, The University of Dublin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I obtained my Bachelor of Engineering in Computer Science and Engineering with First Class from Acharya Institute of Technology, Bangalore which is affiliated to Visvesvaraya Technological University, Belagavi. The undergraduate curriculum introduced me to a wide variety of engineering subjects and provided me with a strong footing in the theoretical concept of Computer Science and Engineering.
+
+During my tenure as Associate Professional Application Delivery in one of the World’s largest
+multinational IT company Computer Sciences Corporation gave me huge exposure to the IT Industry.
+I was part of the Enterprise Content Management Practice and worked for one of the world’s leading
+IP management and technology company. My various Roles and Responsibilities included
+Development and Enhancement of ECM supported Java Applications, Involvement in Software Life
+Cycle of the applications using Agile methodologies, Providing post-implementation support to
+client, ECM administration and workflow management of documents. I was involved in full life cycle
+development (SDLC) of a major ECM Workflow Change Project in IBM Content Manager, developed
+multiple Java applications on IBM AIX severs to automate certain manual tasks and bug fixed several
+existing Java Applications.
+
 
 ### Markdown
 
