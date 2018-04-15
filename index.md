@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 # Projects
 ## Data Visualization
-- https://github.com/someaditya/Earthquake-Data-Visualization
+- [Earthquake Data Visualization] (https://github.com/someaditya/Earthquake-Data-Visualization)
 - https://github.com/someaditya/Terrorism-Data-Visualization-D3
 ## Machine Learning
 
