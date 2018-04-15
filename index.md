@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## About Me
 
 You can use the [editor on GitHub](https://github.com/someaditya/someaditya.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,11 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Projects
+## Data Visualization
+- https://github.com/someaditya/Earthquake-Data-Visualization
+- https://github.com/someaditya/Terrorism-Data-Visualization-D3
+## Machine Learning
 
 ### Jekyll Themes
 
