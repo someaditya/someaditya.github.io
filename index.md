@@ -19,14 +19,14 @@ client, ECM administration and workflow management of documents.
 - Recommender Systems
 - Adaptive Applications[Earthquake Data Visualization](
 
-# Projects
+## Projects
 
-## Data Visualization
+### Data Visualization
 - [Earthquake Data Visualization](https://github.com/someaditya/Earthquake-Data-Visualization)
 - [Terrorism Data Visualization](https://github.com/someaditya/Terrorism-Data-Visualization-D3)
 
-## Machine Learning
+### Machine Learning
 
-## Software Engineering
+### Software Engineering
 
 
