@@ -39,6 +39,13 @@ multinational IT company, Computer Sciences Corporation (now DXC Technology) gav
 
 Currently I am looking for Data Science roles across Europe (valid work authorization in Ireland), If you’d like to learn more about me, please reach out via email (someaditya@live.in ) or call me at +353 899775675 or +91-9611424845.
 
+Education:
 
+- 2017-2018	[Trinity College Dublin](www.tcd.ie) - MSc in. Computer Science
+- 2010-2-14 [Visvesvaraya Technological University](www.vtu.ac.in) - BE in Computer Science and Engineering
+
+Professional Expereince:
+
+- 2015-2016 [CSC](www.dxc.technology) - Associate Professional Application elivery
 
 
