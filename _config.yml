@@ -1,86 +1,56 @@
-# --- Serving options --- #
-
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "http://someaditya.github.io"
+url: "http://sjackman.ca"
 baseurl: ""
+title: "@sjackman"
+description: "PhD candidate in bioinformatics, programmer, engineer"
+avatar: "/img/shaun-jackman-square.jpg"
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://kootenpv.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
-# Name of website
-title: Some Aditya Mandal
-
-# Short description of your site
-description: Data enthusiast
-
-# --- Navigation bar options --- #
-
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
-
-# List of links in the navigation bar
 navbar-links:
-  
+  Projects: "Projects"
+  Portfolio:
+    - Code: "https://github.com/sjackman"
+    - Papers: "http://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
+    - Posters & Slides: "portfolio"
+  Activity:
+    - GitHub: "https://github.com/sjackman"
+    - Twitter: "http://twitter.com/sjackman"
+    - Google Scholar: "http://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
+    - Impactstory: "https://impactstory.org/u/0000-0002-9275-5966"
+    - Resume: "http://sjackman.ca/resume"
+    - LinkedIn: "http://www.linkedin.com/in/sjackman"
   About Me: "aboutme"
-  Projects: "projects"
-  Research: "research"
-  Publications:
-    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
-    - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
-  Travel+: "travel"
-# --- Footer options --- #
 
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Aditya Mandal
-  email: "someaditya@live.in"
-  github: someaditya
-  linkedin: in/someadityamandal/
-  stackoverflow: users/8981905/samandal
-  twitter: someaditya
+  name: "Shaun Jackman"
+  email: "sjackman@gmail.com"
+  github: "sjackman"
+  googlescholar: "wFl3qXAAAAAJ"
+  impactstory: "0000-0002-9275-5966"
+  linkedin: "in/sjackman"
+  twitter: "sjackman"
 
-# Select which links to show in the footer
 footer-links-active:
-  rss: false
-  facebook: false
   email: true
-  twitter: true
   github: true
+  googlescholar: true
+  impactstory: true
   linkedin: true
-  stackoverflow: true
+  twitter: true
+  facebook: false
+  rss: false
+  stackoverflow: false
 
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "sjackman.ca"
+#disqus: ""
+google_analytics: "UA-2437900-4"
 
-# --- Misc --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-
-
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-67532421-1"
-
-# --- Don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
-timezone: "Europe/Amsterdam"
+timezone: "America/Vancouver"
 markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 99
 
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
-
-permalink: /:year-:month-:day-:title
-paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -89,31 +59,68 @@ defaults:
       path: ""
       type: "posts"
     values:
+      layout: "post"
       comments: true  # add comments to all blog posts
   -
     scope:
       path: "" # all files
     values:
-      layout: "default"
+      layout: "page"
+      show-avatar: true
 
 # Exclude these files from production site
 exclude:
-  - CNAME
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
-  - node_modules
-  - gulpfile.js
+  - CNAME
+  - Vagrantfile
 
-# prose.io options
+# prose.io config
 prose:
+  rooturl: '_posts'
+  media: 'img'
   ignore:
     - 404.html
     - LICENSE
     - feed.xml
-    - /_includes
+    - _config.yml
     - /_layouts
+    - /_includes
     - /css
     - /img
     - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
 
-# Beautiful Jekyll / Dean Attali
+gems:
+  - jekyll-paginate
