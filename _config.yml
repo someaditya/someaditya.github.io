@@ -31,9 +31,9 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Research: "research"
-  Publication: 
-    - Research: "publication"
-    - Social: "socpub"
+  Publications:
+    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
+    - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
   Travel+: "travel"
 # --- Footer options --- #
 
