@@ -3,5 +3,5 @@ layout: page
 title: Research
 ---
 
-NEMATREH - Neural Machine Translation for English to Hindi 
+[NEMATREH](https://someaditya.github.io/nematreh/) - Neural Machine Translation for English to Hindi 
 
