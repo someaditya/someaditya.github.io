@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Have a look at my [GitHub](https://github.com/someaditya/)
+All the projects can be viewed in [GitHub](https://github.com/someaditya/)
 
 Machine Learning:
 - [Yelp Rating Prediction](https://github.com/someaditya/Yelp-Rating-Prediction): This project was developed to predict reviews' star ratings on Yelp using feature selection techniques such as Stop Word Removal, Stemming and machine learning algorithms such as Naive Bayes.
