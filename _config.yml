@@ -31,9 +31,8 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Research: "research"
-  Publications: 
-    - Posto:
-  Travel+: "travel"
+  Publications: "publications"
+  Travel+: "www.someaditya.photography"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
