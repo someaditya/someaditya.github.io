@@ -10,25 +10,10 @@ My name is Some Aditya Mandal. I am interested the following topics:
 - Natural Language Processing 
 - Data Visualization
 - Web Scraping
-- Software development
-- Statistics (R)
-- Data Mining
 - Machine Learning 
 - Deep learning
 
-Tools:
 
-- Unix
-- Python
-- R
-- C++
-- Amazon EC2
-- Docker
-- Emacs
-
-About Me:
-
-Data Science, Travel and Photography - That's what I do! 
 
 I recently completed my MSc in Computer Science (Intelligent Systems) from the School of Computer Science and Statistics, Trinity College Dublin, The University of Dublin. During the course of studies, I gained in-depth knowledge about the fundamentals of Machine Learning and Artificial Intelligence. I was actively involved in several academic projects such as Semantic Analysis of Yelp Dataset, Terrorism Data Visualization, Real Time Dublin City Transporation dashboard, Adaptive News Application etc. I further developed an interest in Neural Machine Translation and submitted my thesis on "Neural Machine Translation for English to Hindi in Tourism Domain", under the supervision of Dr. Kevin Koidl for the fulfillment of the degree.
 
@@ -37,15 +22,14 @@ Previously, I obtained my Bachelor of Engineering in Computer Science and Engine
 During my tenure as "Associate Professional Application Delivery" in one of the World’s largest
 multinational IT company, Computer Sciences Corporation (now DXC Technology) gave me huge exposure to the IT Industry. I was part of the Enterprise Content Management Practice Team and provided services to one of the world’s leading Intellectual Property (IP) management and intellectual property technology company based in the Channel Islands. 
 
-Currently I am looking for Data Science roles across Europe (valid work authorization in Ireland), If you’d like to learn more about me, please reach out via email (someaditya@live.in ) or call me at +353 899775675 or +91-9611424845.
 
 Education:
 
-- 2017-2018	[Trinity College Dublin](www.tcd.ie) - MSc in. Computer Science
-- 2010-2-14 [Visvesvaraya Technological University](www.vtu.ac.in) - BE in Computer Science and Engineering
+- 2017-2018	- Trinity College Dublin - MSc in. Computer Science
+- 2010-2-14 - Visvesvaraya Technological University - BE in Computer Science and Engineering
 
 Professional Expereince:
 
-- 2015-2016 [CSC](www.dxc.technology) - Associate Professional Application elivery
+- 2015-2016 - CSC - Associate Professional Application Delivery
 
 

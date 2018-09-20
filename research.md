@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Projects
+title: Research
 ---
 
-NEMATREH - 
+NEMATREH - Neural Machine Translation for English to Hindi 
+

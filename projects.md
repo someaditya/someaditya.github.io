@@ -17,13 +17,13 @@ Data Visualization:
 - [Minard Dataset](https://github.com/someaditya/Minard-Dataset): Charles Joseph Minard's graphic depiction of the fate of Napoleon's Grand Army in the Russian campaign of 1815 has been called the "greatest statistical graphic ever drawn" (Tufte, 1983).This project reproduces the graphic using R programming language.
 
 Artificial Intelligence:
-
-
-
-
-- [xtoy](https://github.com/kootenpv/xtoy): Go from 'X' to 'y' without effort.
-- [loco](https://github.com/kootenpv/loco): Share localhost HTTP securely with another machine using SSH
 - [ppm](https://github.com/kootenpv/ppm): Personal static password manager. Use it [live](/ppm).
 
+
+
 Miscellaneous:
+
+- [Coinpryc](https://github.com/someaditya/CoinPryc): An Android App to track Bitcoin prices across all the exchanges and keep track of Bitcoin portfolio.
+- [Timeline](https://github.com/someaditya/Timeline): SAn Android based App which was developed to give the user's a brand new chatting experience and was presented as Bachelor of Engineering Completion Project in 2014.
+
 
