@@ -3,19 +3,18 @@ layout: page
 title: About me
 ---
 
-My name is Pascal van Kooten. I like the following topics:
+My name is Some Aditya Mandal. I am interested the following topics:
 
-- Blockchain / Eris / Ethereum / Solidity
-- Competitive Intelligence
-- Artificial Intelligence (DeepQN, DeepQA)
-- Natural Language Processing (nltk, spacy)
-- Virtualization (not **vis**ualization)
+- Blockchain 
+- Machine Translation
+- Natural Language Processing 
+- Data Visualization
 - Web Scraping
 - Software development
 - Statistics (R)
 - Data Mining
-- Machine Learning (scikit-learn)
-- Deep learning (tensorflow)
+- Machine Learning 
+- Deep learning
 
 Tools:
 
@@ -27,8 +26,19 @@ Tools:
 - Docker
 - Emacs
 
-Popular posts:
+About Me:
 
-- (Reddit, 510 upvotes) [You can use `whereami` to predict where you are indoors](https://www.reddit.com/r/Python/comments/54qto9/you_can_use_whereami_to_predict_where_you_are/)
-- (Reddit, 230 upvotes) [Finally it is now even easier to send emails in Python!](https://www.reddit.com/r/Python/comments/3gtps6/finally_it_is_now_even_easier_to_send_emails_in)
-- (Reddit, 200 upvotes) [AI challenge in 78 lines of Python (top 5% on Codingame)](https://www.reddit.com/r/Python/comments/52f50j/ai_challenge_in_78_lines_of_python_top_5_on/)
+Data Science, Travel and Photography - That's what I do! 
+
+I recently completed my MSc in Computer Science (Intelligent Systems) from the School of Computer Science and Statistics, Trinity College Dublin, The University of Dublin. During the course of studies, I gained in-depth knowledge about the fundamentals of Machine Learning and Artificial Intelligence. I was actively involved in several academic projects such as Semantic Analysis of Yelp Dataset, Terrorism Data Visualization, Real Time Dublin City Transporation dashboard, Adaptive News Application etc. I further developed an interest in Neural Machine Translation and submitted my thesis on "Neural Machine Translation for English to Hindi in Tourism Domain", under the supervision of Dr. Kevin Koidl for the fulfillment of the degree.
+
+Previously, I obtained my Bachelor of Engineering in Computer Science and Engineering from Visvesvaraya Technological University, Belagavi. The undergraduate curriculum introduced me to a wide variety of engineering subjects and provided me with a strong footing in the theoretical concept of Computer Science and Engineering.
+
+During my tenure as "Associate Professional Application Delivery" in one of the World’s largest
+multinational IT company, Computer Sciences Corporation (now DXC Technology) gave me huge exposure to the IT Industry. I was part of the Enterprise Content Management Practice Team and provided services to one of the world’s leading Intellectual Property (IP) management and intellectual property technology company based in the Channel Islands. 
+
+Currently I am looking for Data Science roles across Europe (valid work authorization in Ireland), If you’d like to learn more about me, please reach out via email (someaditya@live.in ) or call me at +353 899775675 or +91-9611424845.
+
+
+
+

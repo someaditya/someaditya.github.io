@@ -25,3 +25,5 @@ Artificial Intelligence:
 - [loco](https://github.com/kootenpv/loco): Share localhost HTTP securely with another machine using SSH
 - [ppm](https://github.com/kootenpv/ppm): Personal static password manager. Use it [live](/ppm).
 
+Miscellaneous:
+
