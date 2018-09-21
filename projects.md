@@ -16,10 +16,6 @@ Data Visualization:
 - [Terrorism Data Visualization](https://github.com/someaditya/Terrorism-Data-Visualization-D3):The Global Terrorism Database (GTD) is an open-source database including information on terrorist events around the world from 1970 through 2016 (with annual updates planned for the future). This D3 project tries to visualize the terrorism events in India from 1977-2016.
 - [Minard Dataset](https://github.com/someaditya/Minard-Dataset): Charles Joseph Minard's graphic depiction of the fate of Napoleon's Grand Army in the Russian campaign of 1815 has been called the "greatest statistical graphic ever drawn" (Tufte, 1983).This project reproduces the graphic using R programming language.
 
-Artificial Intelligence:
-- [ppm](https://github.com/kootenpv/ppm): Personal static password manager. Use it [live](/ppm).
-
-
 
 Miscellaneous:
 
