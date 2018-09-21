@@ -1,3 +1,3 @@
-# kootenpv.github.io
+# www.someaditya.in
 
-Pascal van Kooten's github.io website.
+Some Aditya Mandal's github.io website.
