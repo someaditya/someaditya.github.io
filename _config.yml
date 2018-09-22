@@ -73,6 +73,9 @@ google_analytics: "UA-91824669-1"
 timezone: "Europe/Amsterdam"
 markdown: kramdown
 
+plugins:
+  - jekyll-seo-tag
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
