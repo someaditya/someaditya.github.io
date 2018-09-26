@@ -19,11 +19,20 @@ title: Some Aditya Mandal
 # Short description of your site
 description: A data scientist, an avid traveller, a photographer, a travel blogger and an experimental cook.
 # --- Navigation bar options --- #
-
+twitter:
+  username: someaditya
+  card: summary
+social:
+  name: Some Aditya Mandal
+  links:
+    - https://twitter.com/someaditya
+    - https://www.facebook.com/some.aditya.mandal
+    - https://www.linkedin.com/in/someaditymandal
+    - https://github.com/someaditya
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
-
+google_site_verification
 # List of links in the navigation bar
 navbar-links:
   
