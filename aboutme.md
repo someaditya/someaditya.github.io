@@ -32,4 +32,4 @@ Professional Expereince:
 
 - 2015-2016 - [CSC](http://www.dxc.technology/) - Associate Professional Application Delivery
 
-
+![alt text](img\VTU-logo.png)
