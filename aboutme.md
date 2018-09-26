@@ -35,3 +35,5 @@ Professional Expereince:
 <img src="img\trinity.jpg" alt="drawing" width="300" height="150"/>
 <img src="img\CSC_Logo.svg" alt="drawing" width="120" height="100"/>
 <img src="img\VTU-logo.png" alt="drawing" width="100" height="120"/>
+
+<a href="img/Some_DataScientist_CV.pdf" download>Click here to Download</a> my Curriculum Vitae. 
