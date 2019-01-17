@@ -5,9 +5,13 @@ title: Projects
 
 All the projects can be viewed in [GitHub](https://github.com/someaditya/)
 
+Kaggle:
+- [Bitcoin Time Series Forecasting](https://www.kaggle.com/someadityamandal/bitcoin-time-series-forecasting): This Kaggle kernel explores different Machine Learning algorithms to predict the Bitcoin Prices over the period of time.
+- [NFL Data Analysis](https://www.kaggle.com/someadityamandal/nfl-data-analysis): Kaggle hosted first Data Analytics competetion with NFL. This kernel explores the humongous NFL data,analyze the reasons behind concussion and proposes rules changes to the NFL. Competetion details [here](https://www.kaggle.com/c/NFL-Punt-Analytics-Competition)
+
+
 Machine Learning:
 - [Yelp Rating Prediction](https://github.com/someaditya/Yelp-Rating-Prediction): This project was developed to predict reviews' star ratings on Yelp using feature selection techniques such as Stop Word Removal, Stemming and machine learning algorithms such as Naive Bayes.
-
 
 
 Data Visualization:
