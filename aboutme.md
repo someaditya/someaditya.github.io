@@ -15,12 +15,15 @@ My name is Some Aditya Mandal. I am interested the following topics:
 
 
 
-I recently completed my MSc in Computer Science (Intelligent Systems) from the School of Computer Science and Statistics, Trinity College Dublin, The University of Dublin. During the course of studies, I gained in-depth knowledge about the fundamentals of Machine Learning and Artificial Intelligence. I was actively involved in several academic projects such as Semantic Analysis of Yelp Dataset, Terrorism Data Visualization, Real Time Dublin City Transporation dashboard, Adaptive News Application etc. I further developed an interest in Neural Machine Translation and submitted my thesis on "Neural Machine Translation for English to Hindi in Tourism Domain", under the supervision of Dr. Kevin Koidl for the fulfillment of the degree.
+I am a Software Engineer (Java ) with 1.7 yrs of IT experience and with a strong academic knowledge of Artificial Intelligence,Machine Learning and Data Analysis.
 
-Previously, I obtained my Bachelor of Engineering in Computer Science and Engineering from Visvesvaraya Technological University, Belagavi. The undergraduate curriculum introduced me to a wide variety of engineering subjects and provided me with a strong footing in the theoretical concept of Computer Science and Engineering.
+I have recently worked as a Java Consultant at Version 1, Dublin for five months. I was part of the Java Team under Managed Services Practice in Ireland D&C Solutions division and supported multiple projects in both private and public sector. 
 
-During my tenure as "Associate Professional Application Delivery" in one of the World’s largest
-multinational IT company, Computer Sciences Corporation (now DXC Technology) gave me huge exposure to the IT Industry. I was part of the Enterprise Content Management Practice Team and provided services to one of the world’s leading Intellectual Property (IP) management and intellectual property technology company based in the Channel Islands. 
+Last year in 2018, I completed my MSc in Computer Science (Intelligent Systems) from the School of Computer Science and Statistics, Trinity College Dublin, The University of Dublin. During the course of studies, I gained in-depth knowledge about the fundamentals of Machine Learning and Artificial Intelligence. I was actively involved in several academic projects such as Semantic Analysis of Yelp Dataset, Terrorism Data Visualisation, Real Time Dublin City Transportation dashboard, Adaptive News Application etc. I further developed an interest in Neural Machine Translation and submitted my thesis on "Neural Machine Translation for English to Hindi in Tourism Domain", under the supervision of Dr. Kevin Koidl for the fulfilment of the degree.
+
+Between 2015-2016, i worked as an Associate Professional Application Delivery in Computer Sciences Corporation (now DXC Technology), India, for 1.2 yrs which gave me huge exposure to the IT Industry. 
+
+Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engineering from Visvesvaraya Technological University, Belagavi, India. The undergraduate curriculum introduced me to a wide variety of engineering subjects and provided me with a strong footing in the theoretical concept of Computer Science and Engineering. 
 
 
 Education:
@@ -31,6 +34,7 @@ Education:
 Professional Expereince:
 
 - 2015-2016 - [CSC](http://www.dxc.technology/) - Associate Professional Application Delivery
+- 2019-2019 - [Version 1](https://www.version1.com/) - Managed Services Consultant
 
 <img src="img\trinity.jpg" alt="drawing" width="300" height="150"/>
 <img src="img\CSC_Logo.svg" alt="drawing" width="120" height="100"/>
