@@ -33,8 +33,9 @@ Education:
 
 Professional Expereince:
 
-- 2015-2016 - [CSC](http://www.dxc.technology/) - Associate Professional Application Delivery
 - 2019-2019 - [Version 1](https://www.version1.com/) - Managed Services Consultant
+- 2015-2016 - [CSC](http://www.dxc.technology/) - Associate Professional Application Delivery
+
 
 <img src="img\trinity.jpg" alt="drawing" width="300" height="150"/>
 <img src="img\CSC_Logo.svg" alt="drawing" width="120" height="100"/>
