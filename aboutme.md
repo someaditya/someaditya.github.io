@@ -20,7 +20,8 @@ Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engi
 - 2019-2019 - [Version 1](https://www.version1.com/) - Managed Services Consultant
 - 2015-2016 - [CSC](http://www.dxc.technology/) - Associate Professional Application Delivery
 
-<img src="img\CSC_Logo.svg" alt="drawing" width="120" height="80"/>
+<img src="img\version1.jpeg" alt="Version 1" width="120" height="80"/>
+<img src="img\CSC_Logo.svg" alt="CSC" width="120" height="80"/>
 
 ##### Education:
 
