@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-[NEMATREH](https://someaditya.github.io/nematreh/) - Neural Machine Translation for English to Hindi in Tourism Domain 
+Neural Machine Translation for English to Hindi in Tourism Domain 
 
 A Dissertation for the completetion of MSc in Computer Science under the supervision of Dr. Kevin Koidl<br>
 
