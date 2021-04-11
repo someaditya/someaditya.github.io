@@ -49,5 +49,7 @@ Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engi
 
 <br><br>
 
--> **<a href="img/Some_DataScientist_CV.pdf" download>Click here to Download</a> my Curriculum Vitae.** <-
+
+<p style="text-align: center;">
+ **<a href="img/Some_DataScientist_CV.pdf" download>Click here to Download</a> my Curriculum Vitae.** </p>
 
