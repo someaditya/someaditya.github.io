@@ -14,7 +14,7 @@ Between 2015-2016, i worked as an Associate Professional Application Delivery in
 
 Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engineering from Visvesvaraya Technological University, Belagavi, India. The undergraduate curriculum introduced me to a wide variety of engineering subjects and provided me with a strong footing in the theoretical concept of Computer Science and Engineering. 
 
-### Professional Experience:
+#### Professional Experience:
 
 - 2019-Present - [Our Tandem](https://www.ourtandem.com/) - Data Scientist
 - 2019-2019 - [Version 1](https://www.version1.com/) - Managed Services Consultant
@@ -23,7 +23,7 @@ Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engi
 <img src="img\version1.jpeg" alt="Version 1" width="140" height="90"/>
 <img src="img\CSC_Logo.svg" alt="CSC" width="120" height="80"/>
 
-### Education:
+#### Education:
 
 - 2017-2018	-  [Trinity College Dublin](https://scss.tcd.ie/) - MSc in. Computer Science
 - 2010-2014 - [Visvesvaraya Technological University](https://vtu.ac.in/) - BE in Computer Science and Engineering
@@ -31,7 +31,7 @@ Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engi
 <img src="img\trinity.jpg" alt="drawing" width="300" height="120"/>
 <img src="img\VTU-logo.png" alt="drawing" width="100" height="120"/>
 
-### I am interested the following topics:
+#### I am interested the following topics:
 
 - Machine Translation
 - Natural Language Processing 
@@ -39,4 +39,5 @@ Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engi
 - Machine Learning 
 - Deep learning
 
+<br><br>
 **<a href="img/Some_DataScientist_CV.pdf" download>Click here to Download</a> my Curriculum Vitae.**
