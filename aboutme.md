@@ -31,6 +31,13 @@ Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engi
 <img src="img\trinity.jpg" alt="drawing" width="300" height="120"/>
 <img src="img\VTU-logo.png" alt="drawing" width="100" height="120"/>
 
+#### Certification:
+
+[Microsoft Certified: Data Analyst Associate](https://www.credly.com/badges/ef1160ea-bcd0-4421-92a6-4a2a585977ae?source=linked_in_profile) - April 2021 - April 2023 (subject to renewal)
+
+
+<img src="img\mcdabadge.jpg" alt="drawing" width="300" height="120"/>
+
 #### I am interested the following topics:
 
 - Machine Translation
