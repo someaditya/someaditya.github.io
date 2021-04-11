@@ -27,7 +27,7 @@ Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engi
 
 - [Microsoft Certified: Data Analyst Associate](https://www.credly.com/badges/ef1160ea-bcd0-4421-92a6-4a2a585977ae?source=linked_in_profile) - April 2021 - April 2023 (subject to renewal)
 
-<img src="img\mcdabadge.png" alt="drawing" width="100" height="120"/>
+<img src="img\mcdabadge.png" alt="drawing" width="120" height="120"/>
 
 
 #### Education:
