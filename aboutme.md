@@ -14,7 +14,7 @@ Between 2015-2016, i worked as an Associate Professional Application Delivery in
 
 Back in 2014, I obtained my Bachelor of Engineering in Computer Science and Engineering from Visvesvaraya Technological University, Belagavi, India. The undergraduate curriculum introduced me to a wide variety of engineering subjects and provided me with a strong footing in the theoretical concept of Computer Science and Engineering. 
 
-Professional Expereince:
+Professional Experience:
 
 - 2019-Present - [Our Tandem](https://www.ourtandem.com/) - Data Scientist
 - 2019-2019 - [Version 1](https://www.version1.com/) - Managed Services Consultant
@@ -34,6 +34,8 @@ Education:
 - Data Visualization
 - Machine Learning 
 - Deep learning
+
+
 
 
 <img src="img\trinity.jpg" alt="drawing" width="300" height="120"/>
