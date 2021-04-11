@@ -3,17 +3,7 @@ layout: page
 title: About me
 ---
 
-My name is Some Aditya Mandal. I am interested the following topics:
-
-- Blockchain 
-- Machine Translation
-- Natural Language Processing 
-- Data Visualization
-- Web Scraping
-- Machine Learning 
-- Deep learning
-
-
+My name is Some Aditya Mandal. 
 I am a Data Scientist, I tell stories with data and design intelligent solutions. 
 
 In Our Tandem, I am currently working on Product Data Analytics using different technologies such as SQL, Python & Microsoft Power BI and building new Intelligent Solutions for the existing product using Natural Language Processing & Machine Learning. 
@@ -37,6 +27,13 @@ Education:
 - 2010-2014 - [Visvesvaraya Technological University](https://vtu.ac.in/) - BE in Computer Science and Engineering
 
 
+ I am interested the following topics:
+
+- Machine Translation
+- Natural Language Processing 
+- Data Visualization
+- Machine Learning 
+- Deep learning
 
 
 <img src="img\trinity.jpg" alt="drawing" width="300" height="120"/>
