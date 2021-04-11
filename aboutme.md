@@ -20,12 +20,15 @@ Professional Experience:
 - 2019-2019 - [Version 1](https://www.version1.com/) - Managed Services Consultant
 - 2015-2016 - [CSC](http://www.dxc.technology/) - Associate Professional Application Delivery
 
+<img src="img\CSC_Logo.svg" alt="drawing" width="120" height="80"/>
 
 Education:
 
 - 2017-2018	-  [Trinity College Dublin](https://scss.tcd.ie/) - MSc in. Computer Science
 - 2010-2014 - [Visvesvaraya Technological University](https://vtu.ac.in/) - BE in Computer Science and Engineering
-
+- 
+<img src="img\trinity.jpg" alt="drawing" width="300" height="120"/>
+<img src="img\VTU-logo.png" alt="drawing" width="100" height="120"/>
 
  I am interested the following topics:
 
@@ -34,12 +37,5 @@ Education:
 - Data Visualization
 - Machine Learning 
 - Deep learning
-
-
-
-
-<img src="img\trinity.jpg" alt="drawing" width="300" height="120"/>
-<img src="img\CSC_Logo.svg" alt="drawing" width="120" height="120"/>
-<img src="img\VTU-logo.png" alt="drawing" width="100" height="120"/>
 
 <a href="img/Some_DataScientist_CV.pdf" download>Click here to Download</a> my Curriculum Vitae. 
